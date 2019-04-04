@@ -10,3 +10,4 @@ It is built mostly in Numpy and Pandas, with a final couple of models in XGBoost
 * KL Divergence calculated for each pair
 * Linear and Logistic regression in Numpy
 * XGBoost and Keras used for further models
+* Use of Bayesian Optimisation using HyperOpt
